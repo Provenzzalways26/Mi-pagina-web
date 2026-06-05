@@ -1,0 +1,18 @@
+body {
+    background-color:aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+    margin:0;
+}
+
+.tarjeta {
+    background-color: blanchedalmond;
+    width: 320px;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0green, 0.1);
+    text-align: center;
+}
